@@ -1,4 +1,4 @@
-Market Basket Analysis: Apriori and FP-Growth Algorithms
+#Market Basket Analysis: Apriori and FP-Growth Algorithms
 Project Overview
 
 This project focuses on applying market basket analysis techniques to uncover frequent itemsets within transactional data. The primary goal is to understand customer behavior and derive actionable insights to optimize business strategies. To achieve this, the project employs the Apriori and FP-Growth algorithms, comparing their effectiveness in extracting valuable patterns from the data.
