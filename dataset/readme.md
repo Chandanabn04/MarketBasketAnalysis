@@ -33,3 +33,7 @@ Run the script:
 ```bash
 python predictionChatbot.py
 ```
+
+## Current Implementation
+
+![Alt text](Q&A.png)
