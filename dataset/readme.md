@@ -36,4 +36,11 @@ python predictionChatbot.py
 
 ## Current Implementation
 
+### Ask questions to chatbot
+
 ![Alt text](Q&A.png)
+
+### Ask Chatbot to predict CKD by using the keyword "predict"
+
+
+![Alt text](chatbot-prediction.png)
